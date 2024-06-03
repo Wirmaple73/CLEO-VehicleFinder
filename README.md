@@ -6,7 +6,7 @@ A compact CLEO script to find vehicles via ID created for GTA: San Andreas. (Als
 Extract the `cleo` folder to your main GTA: San Andreas folder (where `gta_sa.exe` is located).
 
 ## Keybinds
-All following keybinds can be overridden in <b>VehicleFinder.ini</b>.
+All following keybinds can be overridden in **VehicleFinder.ini**.
 
 <table>
 	<tr>
@@ -19,13 +19,15 @@ All following keybinds can be overridden in <b>VehicleFinder.ini</b>.
 	</tr>
 		<td align="center">Ctrl and +</td>
 		<td>Increments the selected model ID.</td>
-	</tr>
+</tr>
 		<td align="center">Ctrl and -</td>
 		<td>Decrements the selected model ID.</td>
 	</tr>
 		<td align="center">Shift</td>
 		<td>Speeds model selection up.</td>
 </table>
+
+You may also enter **UNMARK** as a cheat to unmark a found vehicle.
 
 ## Download link
 You can grab the latest release [here](https://github.com/Wirmaple73/CLEO-VehicleFinder/releases/latest). Enjoy!
